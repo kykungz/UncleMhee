@@ -3,9 +3,7 @@ import { BrowserRouter as Router } from 'react-router-dom'
 import logo from './assets/logo.svg'
 import RouterView from './router'
 import Sidebar from 'react-sidebar'
-import DemoRouterLink from './demo/DemoRouterLink'
 import styled from 'styled-components'
-import Navbar from './components/Navbar'
 import { Link } from 'react-router-dom'
 
 const Wrapper = styled.div`
