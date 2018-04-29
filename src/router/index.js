@@ -5,11 +5,6 @@ import Dashboard from '../components/Dashboard'
 
 const routes = [
   {
-    path: '/UncleMhee',
-    exact: true,
-    component: Home
-  },
-  {
     path: '/',
     exact: true,
     component: Home
