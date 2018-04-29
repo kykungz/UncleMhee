@@ -68,10 +68,6 @@ class DemoComponent extends React.Component {
           <Service name="Delivery"/>
           <Service name="Subscripion"/>
           <Service name="POS System"/>
-          {/* <Box>Logistic</Box>
-          <Box>Delivery</Box>
-          <Box>Subscription</Box>
-          <Box>Point of Sale System</Box> */}
         </Grid>
       </div>
     )

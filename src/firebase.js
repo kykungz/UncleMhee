@@ -1,12 +1,12 @@
 import * as firebase from 'firebase'
 
 const config = {
-  apiKey: '',
-  authDomain: '',
-  databaseURL: '',
-  projectId: '',
+  apiKey: 'AIzaSyANpRPym9opPpLf76fAN0pntLB9M3fOTtQ',
+  authDomain: 'hackathon-ca2a6.firebaseapp.com',
+  databaseURL: 'https://hackathon-ca2a6.firebaseio.com',
+  projectId: 'hackathon-ca2a6',
   storageBucket: '',
-  messagingSenderId: ''
+  messagingSenderId: '818453846503'
 }
 
 firebase.initializeApp(config)

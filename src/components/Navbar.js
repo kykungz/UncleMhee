@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 const Nav = styled.nav`
   ${'' /* background: #19212b !important; */}
-  background: var(--danger) !important;
+  ${'' /* background: var(--danger) !important; */}
 `
 
 const Hamburger = styled.button`

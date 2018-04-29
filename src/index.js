@@ -11,11 +11,16 @@ import 'bootstrap/dist/css/bootstrap.css'
 injectGlobal`
   .App {
     padding: 1em;
+  }
 
-    img {
-      height: 100px;
-      background: #2d2d2d;
-    }
+  .rodal-dialog {
+    padding: 0 !important;
+  }
+  .rodal-close::before {
+    background: white;
+  }
+  .rodal-close::after {
+    background: white;
   }
 `
 
